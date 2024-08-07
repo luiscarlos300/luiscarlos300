@@ -13,6 +13,7 @@
   <img align="center" alt="Luis-SQL" height="30" width="30" src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png">
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luis-BI" height="25" width="25" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
+  <img align="center" alt="Luis-Apps" height="25" width="25" src="https://store-images.s-microsoft.com/image/apps.5460.13795821674373682.42a749e2-3ed9-43c6-88ec-0045278b4e49.7c939c07-5097-4a52-abd1-de0a42b889ba">
   <img align="center" alt="Luis-Excel" height="30" width="30" src="https://img.icons8.com/color/344/microsoft-excel-2019--v1.png">
   <img align="center" alt="Luis-Tableau" height="30" width="30" src="https://img.icons8.com/color/200/tableau-software.png">
  </div>
