@@ -14,7 +14,7 @@
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luis-BI" height="25" width="25" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
   <img align="center" alt="Luis-Excel" height="30" width="30" src="https://img.icons8.com/color/344/microsoft-excel-2019--v1.png">
-  <img align="center" alt="Luis-Tableau" height="30" width="30" src="https://i.pinimg.com/736x/86/35/88/863588a71e465cc3aa5d822c0feafea9.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO_AVJswYvCIMXxND52_7bO-y87Uj0m4g71og6LiTRn1bWdPyrOKL368c2z2-wGZJ07GA">
+  <img align="center" alt="Luis-Tableau" height="30" width="30" src="https://logosmarcas.net/wp-content/uploads/2021/10/Tableau-Emblema.jpg">
  </div>
 
 
