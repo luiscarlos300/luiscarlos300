@@ -1,10 +1,10 @@
 <h2>Hi 👋, I'm Luis Carlos</h2>
 
-- 🔭 I’m currently working on **data analysis and visualization**
+- 🔭 I’m currently working on **data analysis and data engineering**
 
-- 🌱 I’m currently learning **statistics for data analysis**
+- 🌱 I’m currently expanding my expertise in **databricks and data factory**
 
-- 💬 Ask me about **SQL, Power BI, Power Apps, Power Automate, Tableau, Excel and Python**
+- 💬 Ask me about **SQL, Power BI, Power Apps, Power Automate, Tableau, Excel, Python, Spark, Databricks and Data Factory**
 
 ##
 
@@ -17,6 +17,8 @@
   <img align="center" alt="Luis-Automate" height="25" width="25" src="https://img.icons8.com/?size=512&id=kTTt25v6Drpd&format=png">
   <img align="center" alt="Luis-Excel" height="30" width="30" src="https://img.icons8.com/color/344/microsoft-excel-2019--v1.png">
   <img align="center" alt="Luis-Tableau" height="30" width="30" src="https://img.icons8.com/color/200/tableau-software.png">
+  <img align="center" alt="Luis-Databricks" height="30" width="30" src="https://cdn.prod.website-files.com/601064f495f4b4967f921aa9/64246984585c9225aa4e4fc4_databricks.png">
+  <img align="center" alt="Luis-Datafactory" height="30" width="30" src="https://logos-download.com/wp-content/uploads/2023/02/Azure_Data_Factory_Logo.png">
  </div>
 
 
